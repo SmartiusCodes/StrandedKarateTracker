@@ -1,0 +1,10 @@
+[
+{
+  "modid": "StrandedKarateTracker",
+  "name": "StrandedKarateTracker",
+  "description": "Tracks the left clicks you need for karate fish on stranded",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["Smartius"]
+}
+]
