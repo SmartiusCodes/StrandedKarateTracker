@@ -32,7 +32,7 @@ public class Tracker {
     @SubscribeEvent
     public void onMouseEvent(InputEvent.MouseInputEvent event) {
         Minecraft mc = Minecraft.getMinecraft();
-        if (mc.gameSettings.keyBindUseItem.isPressed() && isTrackerOn) {
+        if (mc.gameSettings.keyBindUseItem.isKeyDown() && isTrackerOn) {
             clicks = 0;
         }
         if (mc.gameSettings.keyBindAttack.isKeyDown() && isTrackerOn) {
