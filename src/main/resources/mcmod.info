@@ -1,8 +1,8 @@
 [
 {
-  "modid": "StrandedKarateTracker",
-  "name": "StrandedKarateTracker",
-  "description": "Tracks the left clicks you need for karate fish on stranded",
+  "modid": "SmartMod",
+  "name": "SmartMod",
+  "description": "Has features that i would use",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "authorList": ["Smartius"]
