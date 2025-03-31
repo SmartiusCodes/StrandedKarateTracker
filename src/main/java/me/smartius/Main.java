@@ -6,7 +6,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = Main.MODID, useMetadata = true)
 public class Main {
-    public static final String MODID = "SmartMod";
+    public static final String MODID = "StrandedKarateTracker";
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
