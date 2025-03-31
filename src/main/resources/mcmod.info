@@ -1,8 +1,8 @@
 [
 {
-  "modid": "SmartMod",
-  "name": "SmartMod",
-  "description": "Has features that i would use",
+  "modid": "StrandedKarateTracker",
+  "name": "StrandedKarateTracker",
+  "description": "Tracks when you can fish up a Karate Fish on Stranded",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "authorList": ["Smartius"]
